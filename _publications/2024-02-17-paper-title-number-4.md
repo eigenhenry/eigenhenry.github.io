@@ -1,7 +1,7 @@
 ---
 title: "Why Self-Esteem Helps to Solve Problems: An Algorithmic Explanation"
 collection: publications
-category: book-chapters
+category: books
 permalink: "https://doi.org/10.1007/978-3-031-36394-8_46"
 date: 2023-01-01
 venue: "Uncertainty, Constraints, and Decision Making, Studies in Systems, Decision and Control, vol 484, Springer, Cham"
