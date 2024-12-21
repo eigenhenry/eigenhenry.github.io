@@ -12,7 +12,7 @@ title                    : "HS"
 title_separator          : "-"
 name                     : &name "Henry S"
 description              : &description "Doctoral Student at UT - El Paso"
-URL                      : "https://academicpages.github.io  # the base hostname & protocol for your site e.g. "https://eigenhenry.github.io"
+URL                      : https://academicpages.github.io  # the base hostname & protocol for your site e.g. "https://eigenhenry.github.io"
 baseurl                  : "https://eigenhenry.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "https://eigenhenry.github.io/"
 
