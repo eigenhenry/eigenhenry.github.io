@@ -1,7 +1,7 @@
 ---
 title: "Faculty Perceptions Of, and Approaches Towards, Engineering Student Motivation at Hispanic-serving Institution"
 collection: publications
-category: manuscripts
+category: conference
 permalink:  https://strategy.asee.org/37186
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: (2021, July)
