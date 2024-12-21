@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Henry Salgado"
+title                    : "HS"
 title_separator          : "-"
 name                     : &name "Henry S"
 description              : &description "Doctoral Student at UT - El Paso"
@@ -28,7 +28,7 @@ author:
   location         : "Texas"
   employer         : "University of Texas at El Paso"
   uri              : # URL
-  email            : "{hsalgado{@}miners.utep.edu}" 
+  email            : "hsalgado@miners.utep.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
