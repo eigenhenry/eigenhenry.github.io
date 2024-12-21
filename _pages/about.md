@@ -15,8 +15,8 @@ I am part of the AMPLIFY Research Project, under the guidance of  Dr.  Meagan R.
 
 Current Research Interests
 ======
-2. Causal Machine Learning
-3. Explainable AI
-4. Engineering Education 
+1. Causal Machine Learning
+2. Explainable AI
+3. Engineering Education 
    
 
