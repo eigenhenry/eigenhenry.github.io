@@ -21,8 +21,7 @@ Dissertation Committee
 
 Current Research Interests
 ======
-1. Causal Machine Learning
-2. Explainable AI
-3. Engineering Education 
+* Causal Machine Learning and Explainable AI
+* Engineering Education - Faculty Development
    
 
