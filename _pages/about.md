@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. Student in Computer Science and a graduate researcher at The University of Texas at El Paso, where I have completed two Master's degrees: one in Computational Science and another in Engineering. My research interests lie at the intersection of computer science, data science, and engineering education. I am also part of the AMPLIFY Research Project, under the guidance of  Dr.  Meagan R. Kendall (UTEP) and Dr.  Alexadra Coso-Strong (Cornell). 
+Hello! My name is Henry, and I am a Ph.D. student in Computer Science and a graduate researcher at the University of Texas at El Paso (UTEP). I hold two Master's degrees—one in Computational Science and the other in Engineering. My research lies at the intersection of computer science, data science, and engineering education. I am particularly interested in studying faculty as workers and exploring their well-being, workplace environments, and job satisfaction through causal modeling. Additionally, I am interested in using causality to explore the explainability of AI models.
 
 Dissertation Committee
 ======
@@ -16,10 +16,9 @@ Dissertation Committee
 * Dr. Alexandra Coso Strong (Cornell)
 
 
-
 Current Research Interests
 ======
 * Causal Machine Learning and Explainable AI
-* Engineering Education - Faculty Development
+* Engineering Education - Faculty Pathways and Developement
    
 
