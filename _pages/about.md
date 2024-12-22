@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Henry, and I am a Ph.D. student in Computer Science and a graduate researcher at the University of Texas at El Paso (UTEP). I hold two Master's degrees—one in Computational Science and the other in Engineering. I am particularly interested in studying faculty as workers and exploring their well-being, workplace environments, and job satisfaction through causal modeling. Additionally, I am interested in using causality to explore the explainability of AI models.
+Hello! My name is Henry, and I am a Ph.D. student in Computer Science and a graduate researcher at the University of Texas at El Paso (UTEP). I hold two Master's degrees—one in Computational Science and the other in Engineering. I am particularly interested in studying faculty as scholar workers and exploring their well-being, workplace environments, and job satisfaction through causal modeling. Additionally, I am interested in using causality to explore the explainability of AI models.
 
 Dissertation Committee
 ======
