@@ -11,7 +11,5 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Bracho Perez, V., Salgado, H., Coso Strong, A., & Kendall, M. R. (n.d.). (Under Review) Narratives of Educational Change: Amplifying the Agency and Voices of Engineering Instructional Faculty at Hispanic Serving Institutions. Journal of Engineering Education. '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
-
 
 Bracho Perez, V., Salgado, H., Coso Strong, A., & Kendall, M. R. (n.d.). (Under Review) Narratives of Educational Change: Amplifying the Agency and Voices of Engineering Instructional Faculty at Hispanic Serving Institutions. Journal of Engineering Education. 
