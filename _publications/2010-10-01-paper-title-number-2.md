@@ -1,5 +1,5 @@
 ---
-title: "Narratives of Educational Change: Amplifying the Agency and Voices of Engineering Instructional Faculty at Hispanic Serving Institutions. "
+title: "Amplifying the Voices of Engineering Instructional Faculty: Examining the Factors Influencing Agency Toward Impact at Hispanic-Serving Institutions (Under Review) "
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
