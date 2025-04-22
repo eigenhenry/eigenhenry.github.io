@@ -23,7 +23,7 @@ I actively contribute to two research teams:
 
 
 ## Dissertation Committee
-- Dr. Meagan R. Kendall and Dr. Martine Ceberio (UTEP, Co-Chairs)
-- Dr. Alexandra Coso Strong (Cornell)
+* Dr. Meagan R. Kendall and Dr. Martine Ceberio (UTEP, Co-Chairs)
+* Dr. Alexandra Coso Strong (Cornell)
 
 I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
