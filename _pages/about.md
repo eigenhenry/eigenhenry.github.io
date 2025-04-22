@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Henry Salgado**
 
-**Education & Research**
 I am a Ph.D. student in Computer Science and graduate researcher at the University of Texas at El Paso (UTEP), with Master's degrees in both Computational Science and Engineering. I consider myself a mixed-methods researcher, specifically focusing on triangulating between qualitative and quantitative approaches.
 
 **Research Focus**
