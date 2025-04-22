@@ -18,12 +18,12 @@ Given the "black box" nature of many modern architectures, I am particularly int
 **Research Teams**
 I actively contribute to two research teams:
 
-• The AMPLIFY Project: Understanding and amplifying faculty experience in their education change process. 
-• CR2G: Exploring computing topics including neural networks, decision-making under uncertainty, optimization, and computer arithmetic
+* The AMPLIFY Project: Understanding and amplifying faculty experience in their education change process. 
+* CR2G: Exploring computing topics including neural networks, decision-making under uncertainty, optimization, and computer arithmetic
 
 
 **Dissertation Committee**
-• Dr. Meagan R. Kendall and Dr. Martine Ceberio (UTEP, Co-Chairs)
-• Dr. Alexandra Coso Strong (Cornell)
+* Dr. Meagan R. Kendall and Dr. Martine Ceberio (UTEP, Co-Chairs)
+* Dr. Alexandra Coso Strong (Cornell)
 
 I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
