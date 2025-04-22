@@ -7,22 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Henry Salgado, and I am a Ph.D. student in Computer Science and a graduate researcher at the University of Texas at El Paso (UTEP). I hold two Master's degrees—one in Computational Science and the other in Engineering.
+**Henry Salgado**
 
-My research interests span both Engineering Education (e.g., experiences of students and faculty in STEM fields) and Computer Science (Explainable AI). I am particularly drawn to Causality as a framework for understanding not only associations between variables but also isolating and estimating their direct and indirect effects.
+**Education & Research**
+I am a Ph.D. student in Computer Science and graduate researcher at the University of Texas at El Paso (UTEP), with Master's degrees in both Computational Science and Engineering.
 
-In application, I study faculty experiences in higher education, particularly exploring workplace environments, support systems, and satisfaction using linear causal modeling. Additionally, I am interested in causal machine learning and explainable AI, aiming to understand how AI/ML models make decisions beyond traditional accuracy metrics. As AI continues to excel in classification and prediction, determining which features (or sets of features) drive model decisions remains a key challenge. My work seeks to bridge this gap using causality as a framework for explainability.
+**Research Focus**
+My primary research focuses on Causality as a theoretical framework for understanding relationships between variables and isolating their direct and indirect effects. As AI/ML systems become increasingly prevalent across disciplines, I investigate how these models—which often achieve high accuracy by identifying correlations—can better capture true causal relationships. Given the "black box" nature of many modern architectures, I am particularly interested in AI explainability and verifying whether the features prioritized by models align with domain expert knowledge.
 
-I am always open to collaboration! If you are interested in similar topics or have a project in mind, feel free to reach out.
+**Research Teams**
 
-Dissertation Committee
-======
-* Dr. Meagan R. Kendall and Dr. Martine Ceberio (UTEP, Co-Chaired) 
-* Dr. Alexandra Coso Strong (Cornell)
+I actively contribute to two research teams:
 
+The AMPLIFY Project: Supporting faculty in implementing meaningful educational change
+CR2G: Exploring computing topics including neural networks, decision-making under uncertainty, optimization, and computer arithmetic
 
-Current Research Interests
-======
-* Causal Machine Learning and Explainable AI
-* Engineering Education 
+I am also passionate about engineering education and developing support systems for both students and faculty.
 
+**Dissertation Committee**
+
+Dr. Meagan R. Kendall and Dr. Martine Ceberio (UTEP, Co-Chairs)
+Dr. Alexandra Coso Strong (Cornell)
+
+I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
