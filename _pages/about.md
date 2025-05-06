@@ -8,22 +8,20 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in Computer Science and graduate researcher at the University of Texas at El Paso (UTEP), with Master's degrees in both Computational Science and Engineering. I consider myself a mixed-methods researcher, specifically focusing on triangulating between qualitative and quantitative approaches.
+Hello! I am a Ph.D. student in Computer Science and graduate researcher at the University of Texas at El Paso (UTEP), where I've already completed two Master's degrees in Computational Science and Engineering Education.
 
 ## Research Focus
-My primary research explores Causality as a theoretical framework for understanding relationships between variables and isolating their direct and indirect effects. As AI/ML systems become more prevalent across disciplines, I investigate how these models—which often achieve high accuracy by identifying correlations—can better capture true causal relationships.
-
-Given the "black box" nature of many modern architectures, I am particularly interested in AI explainability and verifying whether the features prioritized by models align with domain expert knowledge. I am also passionate about engineering education and developing effective support systems for both students and faculty.
+I’m a researcher working at the intersection of computer science, data science, and education. I’m especially drawn to mixed-methods research, where combining different types of data can reveal better insights. My current work focuses on applying linear causal models to understand STEM faculty satisfaction at Hispanic-Serving Institutions (HSIs). Using real-world data, I examine how factors like salary and departmental support influence satisfaction through mediators such as a sense of autonomy. The goal is to identify practical, evidence-based ways institutions can improve the faculty experience. More broadly, I’m interested in how causal thinking can strengthen AI and machine learning—whether it’s understanding indirect effects or designing models that support real-world interventions. 
 
 ## Research Teams
 I actively contribute to two research teams:
 
-* The AMPLIFY Project: Understanding and amplifying faculty experience in their education change process. 
+* The AMPLIFY Project: Focused on understanding and amplifying faculty experience in their education change process. 
 * CR2G: Exploring computing topics including neural networks, decision-making under uncertainty, optimization, and computer arithmetic
 
 
 ## Dissertation Committee
-* Dr. Meagan R. Kendall and Dr. Martine Ceberio (UTEP, Co-Chairs)
-* Dr. Alexandra Coso Strong (Cornell)
+* Dr. [Meagan R. Kendall] (https://www.utep.edu/engineering/amplify/team/) and Dr. [Martine Ceberio] (https://martineceberio.fr/) UTEP, Co-Chairs
+* Dr. [Alexandra Coso Strong (Cornell)] (https://www.engineering.cornell.edu/people/alexandra-coso-strong/)
 
 I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
