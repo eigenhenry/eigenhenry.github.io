@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. student in Computer Science and a graduate researcher at the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees-- one in Computational Science and another in Engineering.
+Hello! I am a Ph.D. student in Computer Science and a graduate researcher at the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees; one in Computational Science and another in Engineering.
 
 ## Research Focus
 I’m a researcher working at the intersection of computer science, data science, and education. I’m especially drawn to mixed-methods research. I have experience in qualitative methods (e.g., inductive & deductive coding, narrative analysis) and quantitative methods (e.g., statistical models, machine learning models). More broadly, I’m interested in causality and AI explainability (XAI) methods. 
