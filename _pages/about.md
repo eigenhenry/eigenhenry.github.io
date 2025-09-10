@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! My name is Henry. I am a Computer Science PhD candidate at the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees: one in Computational Science and another in Engineering with a major in CS and a minor in engineering education.
 
-## Research Focus
+## Research Interests
 I'm a researcher working at the intersection of computer science, data science, and education. I consider myself a mixed-methods researcher with experience in both qualitative methods (e.g., inductive & deductive coding, narrative analysis) and quantitative methods (e.g., traditional statistical models, machine learning models). Recently, I've developed a growing interest in causal inference and AI explainability (XAI) methods.
 
 ## Research Teams
