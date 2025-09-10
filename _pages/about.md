@@ -16,7 +16,7 @@ I'm a researcher working at the intersection of computer science, data science, 
 I actively contribute to two research teams:
  
 * **CR2G** – Lab focused on exploring a variety of computing topics, including neural networks, decision-making under uncertainty, optimization, and computer arithmetic.
-* **The AMPLIFY Project** – Focused on understanding and amplifying faculty experiences in their education change process. 
+* **The AMPLIFY Project** – Focused on understanding and amplifying STEM faculty experiences in their education change process at Hispanic Serving Institutions 
 
 ## Dissertation Committee
 * [Dr. Meagan R. Kendall](https://www.utep.edu/engineering/amplify/team/) (UTEP, Chair)
