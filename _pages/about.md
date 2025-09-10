@@ -21,8 +21,8 @@ I actively contribute to two research teams:
 ## Dissertation Committee
 * [Dr. Meagan R. Kendall](https://www.utep.edu/engineering/amplify/team/) (UTEP, Chair)
 * [Dr. Martine Ceberio](https://martineceberio.fr/)  (UTEP, Co-chair)  
-* [Dr. Alexandra Coso Strong (Cornell University)](https://www.engineering.cornell.edu/people/alexandra-coso-strong/)
-* [Dr. Saeid Tizpaz-Niari (University of Illinois Chicago)](https://tizpaz.github.io/)
-* [Dr. Christoph Lauter (UTEP)](https://www.christoph-lauter.org/)
+* [Dr. Alexandra Coso Strong](https://www.engineering.cornell.edu/people/alexandra-coso-strong/) (Cornell University)
+* [Dr. Saeid Tizpaz-Niari](https://tizpaz.github.io/) (University of Illinois Chicago)
+* [Dr. Christoph Lauter](https://www.christoph-lauter.org/) (UTEP)
 
 I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
