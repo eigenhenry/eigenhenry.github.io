@@ -12,4 +12,4 @@ citation: "Bracho Perez, V., Salgado, H., Coso Strong, A., & Kendall, M. R. (n.d
 ---
 
 
-Bracho Perez, V., Salgado, H., Coso Strong, A., & Kendall, M. R. (n.d.). (Under Review) Narratives of Educational Change: Amplifying the Agency and Voices of Engineering Instructional Faculty at Hispanic Serving Institutions. Journal of Engineering Education. 
+Bracho Perez, V., Salgado, H., Coso Strong, A., & Kendall, M. R. (n.d.). (Accepted - Under Revisions) Narratives of Educational Change: Amplifying the Agency and Voices of Engineering Instructional Faculty at Hispanic Serving Institutions. Journal of Engineering Education. 
