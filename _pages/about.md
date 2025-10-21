@@ -14,14 +14,17 @@ I'm a research scientist working at the intersection of computer science, data s
 ## Research Teams
 I actively contribute to two research teams:
  
-* [**CR2G**](http://cr2g.constraintsolving.com/) – Lab focused on exploring a variety of computing topics, including: neural networks, decision-making under uncertainty, optimization, and computer arithmetic.
-* [**The AMPLIFY Project**](https://www.utep.edu/engineering/amplify/) – Focused on understanding and amplifying STEM faculty experiences in their education change process at Hispanic Serving Institutions 
+* [**CR2G**](http://cr2g.constraintsolving.com/) – Lab with diverse interests in computing topics, including: explainability, neural networks, decision-making under uncertainty, optimization, and computer arithmetic.
+* [**The AMPLIFY Project**](https://www.utep.edu/engineering/amplify/) – NSF project focused on understanding and amplifying STEM faculty experiences in their education change process at Hispanic Serving Institutions. 
 
 ## Dissertation Committee
-* [Dr. Meagan R. Kendall](https://www.utep.edu/engineering/amplify/team/) (UTEP, Chair)
+* [Dr. Meagan R. Kendall](https://expertise.utep.edu/profiles/mvaughan) (UTEP, Chair)
 * [Dr. Martine Ceberio](https://martineceberio.fr/)  (UTEP, Chair)  
 * [Dr. Alexandra Coso Strong](https://www.engineering.cornell.edu/people/alexandra-coso-strong/) (Cornell University)
 * [Dr. Saeid Tizpaz-Niari](https://tizpaz.github.io/) (University of Illinois Chicago)
 * [Dr. Christoph Lauter](https://www.christoph-lauter.org/) (UTEP)
 
 I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
+
+
+ 
