@@ -1,5 +1,5 @@
 ---
-title: "COSC 1315 - Introduction to Computer Programming"
+title: "Fall 2025 - COSC 1315: Introduction to Computer Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-mini-mester
