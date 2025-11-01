@@ -2,7 +2,7 @@
 title: "Does the Model Say What the Data Says? A Simple Causal-Inspired Heuristic for Model–Data Alignment"
 collection: publications
 category: conferences
-permalink: "/publications/calm-25-model-data-alignment/"
+permalink: "https://www.ciad-lab.fr/the-2nd-international-workshop-on-causality-agents-and-large-models-calm/"
 "
 date: 2025-10-25
 venue: "International Workshop on Causality, Agents and Large Models (CALM-25)"
