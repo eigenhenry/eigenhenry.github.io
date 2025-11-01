@@ -1,5 +1,5 @@
 ---
-title: "(Does the Model Say What the Data Says? A Simple Causal-Inspired Heuristic for Model–Data Alignment"
+title: "Does the Model Say What the Data Says? A Simple Causal-Inspired Heuristic for Model–Data Alignment"
 collection: publications
 category: conferences
 permalink: ""
