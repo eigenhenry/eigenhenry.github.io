@@ -4,6 +4,6 @@ collection: publications
 category: conferences
 date: 2025-10-25
 venue: "International Workshop on Causality, Agents and Large Models (CALM-25), Luxembourg"
-citation: "Salgado, H., Kendall, M. R., & Ceberio, M. (2025, June). *Does the Model Say What the Data Says? A Simple Causal-Inspired Heuristic for Model–Data Alignment.* Paper presented at the International Workshop on Causality, Agents and Large Models (CALM-25), Luxembourg."
+citation: "Salgado, H., Kendall, M. R., & Ceberio, M. (2025, October - Accepted). *Does the Model Say What the Data Says? A Simple Causal-Inspired Heuristic for Model–Data Alignment.* Advances in Explainability, Agents, and Large Language Models. CALM 2024. Communications in Computer and Information Science)"
 ---
 In this work, we propose a simple, computationally efficient framework to evaluate whether machine learning models align with the structure of the data they learn from, that is, whether the model says what the data says.
