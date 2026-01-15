@@ -1,5 +1,5 @@
 ---
-title: "Spring 2026 - COSC 1436:  Programming Fundamentals I"
+title: "Spring 2026 - COSC 2336:  Data Structures & Algorithms"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-epcc
