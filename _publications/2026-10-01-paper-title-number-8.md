@@ -2,7 +2,7 @@
 title: "Causal Discovery for Explainable AI: A Dual-Encoding Approach"
 collection: publications
 category: conferences
-date: 2025-10-01
+date: 2026-20-01
 venue: "International Workshop on Causality, Agents and Large Models (CALM-26)"
 citation: "Salgado, H., Kendall, M. R., & Ceberio, M. (Accepted Jan 2026). Causal discovery for explainable AI: A dual-encoding approach. In Proceedings of the 3rd International Workshop on Causality, Agents and Large Models (CALM-26) (in press). Istanbul, Türkiye."
 ---
