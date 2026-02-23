@@ -47,10 +47,6 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-        {% endif %}
-
         {% capture pub_links %}{% if page.paperurl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}{% if page.slidesurl %}{% if page.paperurl %} | {% endif %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}{% if page.arxivurl %}{% if page.paperurl or page.slidesurl %} | {% endif %}<a href="{{ page.arxivurl }}">arXiv</a>{% endif %}{% if page.doi %}{% if page.paperurl or page.slidesurl or page.arxivurl %} | {% endif %}<a href="https://doi.org/{{ page.doi }}">DOI</a>{% endif %}{% endcapture %}
         {% if pub_links != "" %}
           <p style="font-size: smaller">{{ pub_links }}</p>
