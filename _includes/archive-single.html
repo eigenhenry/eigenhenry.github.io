@@ -32,6 +32,13 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.arxivurl %}
+        <a href="{{ post.arxivurl }}" target="_blank" rel="noopener"><i class="fa fa-external-link" aria-hidden="true" title="arXiv"></i><span class="sr-only">arXiv</span></a>
+      {% elsif post.doi %}
+        <a href="https://doi.org/{{ post.doi }}" target="_blank" rel="noopener"><i class="fa fa-external-link" aria-hidden="true" title="DOI"></i><span class="sr-only">DOI</span></a>
+      {% elsif post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener"><i class="fa fa-external-link" aria-hidden="true" title="Paper"></i><span class="sr-only">Paper</span></a>
+      {% endif %}
     </h2>
     
     {% if post.read_time %}
