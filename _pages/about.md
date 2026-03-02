@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees: one in Computational Science and another in Engineering.
+Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees: one in Computational Science and another in Engineering. I also hold a bachelors in computer systems. I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
+
 ## Research Interests
 
 - Deep Learning: Casual Machine Learning, Explainable Artificial Intelligence
@@ -26,7 +27,7 @@ I actively contribute to two research teams:
 * [Dr. Saeid Tizpaz-Niari](https://tizpaz.github.io/) (University of Illinois Chicago)
 * [Dr. Christoph Lauter](https://www.christoph-lauter.org/) (UTEP)
 
-I welcome collaboration opportunities! If you share similar interests or have project ideas, please reach out.
+
 
 
  
