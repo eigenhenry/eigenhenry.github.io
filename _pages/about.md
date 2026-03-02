@@ -10,8 +10,8 @@ redirect_from:
 Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees: one in Computational Science and another in Engineering.
 ## Research Interests
 
-Deep Learning: Casual Machine Learning, Explainable Artificial Intelligence
-Science of Science: Engineering Education, Faculty Career Pathways & Satisfaction
+- Deep Learning: Casual Machine Learning, Explainable Artificial Intelligence
+- Science of Science: Engineering Education, Faculty Career Pathways & Satisfaction
 
 ## Research Teams
 I actively contribute to two research teams:
