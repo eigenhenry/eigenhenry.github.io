@@ -11,8 +11,8 @@ Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the U
 
 ## Research Interests
 
-- Deep Learning: Casual Machine Learning, Explainable Artificial Intelligence
-- Science of Science: Engineering Education, Faculty Career Pathways & Satisfaction
+- **Deep Learning**: Casual Machine Learning, Explainable Artificial Intelligence
+- **Science of Science**: Engineering Education, Faculty Career Pathways & Satisfaction
 
 ## Research Teams
 I actively contribute to two research teams:
