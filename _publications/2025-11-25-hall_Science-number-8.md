@@ -1,7 +1,7 @@
 ---
 title: "Contribution to Error Analysis of Deep Neural Networks: Case of the Activation Functions"
 collection: publications
-category: conferences
+category: preprints
 date: 2025-11-22
 paperurl: 'https://inria.hal.science/hal-05367563/'
 venue: "Hal Open Science"
