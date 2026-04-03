@@ -1,5 +1,5 @@
 ---
-title: "Spring 2026 - COSC 2336:  Data Structures & Algorithms (Java)"
+title: "Spring 2026 - COSC 2336:  Data Structures & Algorithms in Java"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-epcc
