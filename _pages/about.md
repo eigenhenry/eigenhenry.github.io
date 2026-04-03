@@ -23,7 +23,7 @@ Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the U
 ## Tech Stack
 
 - **Languages**: Python, Java, C++, R, MATLAB, SQL
-- **Deep Learning**: Multilayer perceptrons (MLPs), Ensembles methods
+- **Deep Learning**: Neural networks, Ensembles methods
 - **NLP**: Topic modeling (LDA, NMF), local LLM experimentation (Ollama)
 - **Tools**: Jupyter, Git, LaTeX, Unix
 
