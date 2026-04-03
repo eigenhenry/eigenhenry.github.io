@@ -25,7 +25,7 @@ Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the U
 - **Languages**: Python, R, Java, C++, MATLAB, SQL
 - **ML/DL Frameworks**: PyTorch, scikit-learn, NumPy, pandas, causal-learn
 - **Deep Learning**: Multilayer perceptrons (MLPs)
-- **NLP**: Topic modeling (LDA, NMF), local LLM experimentation
+- **NLP**: Topic modeling (LDA, NMF), local LLM experimentation (Ollama)
 - **Visualization**: Matplotlib, Seaborn
 - **Tools**: Jupyter, Git, LaTeX, Unix
 - **Qualitative**: NVivo
