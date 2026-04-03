@@ -1,5 +1,5 @@
 ---
-title: "Spring 2026 - ENGR 1303: Applied Engineering Analysis"
+title: "Spring 2026 - ENGR 1303: Applied Engineering Analysis (Python)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring
