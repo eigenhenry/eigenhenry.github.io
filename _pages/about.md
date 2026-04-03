@@ -12,24 +12,21 @@ Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the U
 ## Research Interests
 
 - **Deep Learning**: Casual Machine Learning, Explainable Artificial Intelligence
-- **Science of Science**: Engineering Education, Faculty Career Pathways & Satisfaction
+- **Science of Science**: Engineering Education, Faculty Pathways, Modeling Mindsets
 
 ## Research Stack
 
-- **Explainable AI (XAI)**: Post-hoc explanation methods (SHAP, LIME), feature attribution, mechanistic interpretability, argumentation methods
-- **Causal Machine Learning**: Causal inference, structural causal models, counterfactual reasoning, causal discovery methods (e.g., PC, FCI), SEM
-- **Science of Science**: Mixed methodology, case studies, narrative analysis, thematic analysis
+- **Explainable AI (XAI)**: Post-hoc explanation methods (SHAP, LIME), sensitivity analysis, mechanistic interpretability, argumentation methods
+- **Causal Machine Learning**: Causal inference, structural causal models, counterfactual reasoning, causal discovery methods (e.g., PC, FCI), structure equation modeling
+- **Science of Science**: Mixed methodology, case studies, narrative analysis, thematic analysis, persona development, instrument validation
 
 ## Tech Stack
 
-- **Languages**: Python, R, Java, C++, MATLAB, SQL
-- **ML/DL Frameworks**: PyTorch, scikit-learn, NumPy, pandas, causal-learn
-- **Deep Learning**: Multilayer perceptrons (MLPs)
+- **Languages**: Python, Java, C++, R, MATLAB, SQL
+- **Deep Learning**: Multilayer perceptrons (MLPs), Ensembles methods
 - **NLP**: Topic modeling (LDA, NMF), local LLM experimentation (Ollama)
-- **Visualization**: Matplotlib, Seaborn
 - **Tools**: Jupyter, Git, LaTeX, Unix
-- **Qualitative**: NVivo
-- **R Packages**: lavaan, tidyverse
+
 
 ## Research Teams
 I actively contribute to two research teams:
