@@ -5,7 +5,7 @@ description: Introductory engineering analysis course covering mathematical and 
 instructor: Henry Salgado
 year: 2026
 term: Spring
-location: El Paso Community College
+location: The University of Texas at El Paso
 course_id: engr1303-spring2026
 ---
 
