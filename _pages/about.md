@@ -25,12 +25,12 @@ latest_posts:
 
 Hello! My name is Henry. I am a PhD candidate in Computer Science (ABD) at the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees: one in Computational Science and another in Engineering. I also hold a bachelor's in computer systems. I welcome collaboration opportunities — if you share similar interests or have project ideas, please reach out.
 
-## Research Interests
+## research interests
 
 - **Deep Learning**: Causal Machine Learning, Explainable Artificial Intelligence
 - **Science of Science**: Engineering Education, Faculty Career Pathways & Satisfaction
 
-## Dissertation Committee
+## dissertation committee
 
 - [Dr. Meagan R. Kendall](https://expertise.utep.edu/profiles/mvaughan) (UTEP, Co-Chair)
 - [Dr. Martine Ceberio](https://martineceberio.fr/) (UTEP, Co-Chair)
