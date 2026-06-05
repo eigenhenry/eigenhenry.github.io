@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>El Paso, Texas</p>
+    
     
 
 selected_papers: true
