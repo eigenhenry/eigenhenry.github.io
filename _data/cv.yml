@@ -1,0 +1,72 @@
+cv:
+  name: Henry Salgado
+  label: CS PhD Candidate (ABD)
+  email: hsalgado@miners.utep.edu
+  location: El Paso, TX
+
+  social_networks:
+    - network: GitHub
+      username: eigenhenry
+    - network: LinkedIn
+      username: henry-salgado-711b6880
+
+  sections:
+    Education:
+      - institution: University of Texas at El Paso
+        location: El Paso, Texas
+        url: https://www.utep.edu/
+        area: Computer Science
+        studyType: PhD (ABD)
+        start_date: 2020
+
+      - institution: University of Texas at El Paso
+        location: El Paso, Texas
+        area: Computational Science
+        studyType: MS
+        end_date: 2020
+
+      - institution: University of Texas at El Paso
+        location: El Paso, Texas
+        area: Engineering
+        studyType: MS
+        end_date: 2019
+
+      - institution: University of Texas at El Paso
+        location: El Paso, Texas
+        area: Computer Systems
+        studyType: BS
+        end_date: 2016
+
+    Experience:
+      - company: University of Texas at El Paso
+        position: Graduate Research & Teaching Assistant
+        location: El Paso, Texas
+        start_date: 2020
+
+      - company: El Paso Community College
+        position: Adjunct Instructor
+        location: El Paso, Texas
+        start_date: 2026
+        end_date: 2026
+        highlights:
+          - "ENGR 1303: Applied Engineering Analysis (Spring 2026)"
+
+    Skills:
+      - name: Machine Learning & AI
+        icon: fa-solid fa-brain
+        keywords: "Causal ML, Explainable AI, SHAP, LIME, Bipolar Argumentation Frameworks, Causal Discovery (PC, FCI)"
+
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, R, Java, C++, MATLAB, SQL"
+
+      - name: Frameworks & Tools
+        icon: fa-solid fa-toolbox
+        keywords: "PyTorch, scikit-learn, NumPy, pandas, causal-learn, lavaan, tidyverse, Jupyter, LaTeX, Git, NVivo"
+
+    Languages:
+      - name: English
+        summary: "Fluent"
+
+      - name: Spanish
+        summary: "Native speaker"
