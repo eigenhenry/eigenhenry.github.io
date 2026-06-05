@@ -1,7 +1,6 @@
 cv:
   name: Henry Salgado
   label: CS PhD Candidate (ABD)
-  email: hsalgado@miners.utep.edu
   location: El Paso, TX
 
   social_networks:
@@ -66,7 +65,7 @@ cv:
 
     Languages:
       - name: English
-        summary: "Fluent"
+        summary: "Native speaker"
 
       - name: Spanish
         summary: "Native speaker"
