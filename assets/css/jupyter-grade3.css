@@ -1,12 +1,4 @@
 /* From https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/grade3.css */
-div#notebook {
-  font-family: sans-serif;
-  font-size: 13pt;
-  line-height: 170%;
-  color: #303030;
-  -webkit-font-smoothing: antialiased !important;
-  padding-top: 25px !important;
-}
 
 body,
 div.body {
@@ -108,12 +100,6 @@ ul#tabs a {
 .nav > li.disabled > a,
 .nav > li.disabled > a:hover {
   color: #828892;
-}
-
-div#notebook {
-  font-family: sans-serif;
-  font-size: 13pt;
-  padding-top: 4px;
 }
 
 .container {
@@ -356,12 +342,6 @@ div.modal-footer > button:hover {
   border-top: none;
 }
 
-.alert-info {
-  background-color: #fdfdfd;
-  border-color: #dedede;
-  color: #303030;
-}
-
 div.panel,
 .panel {
   font-family: sans-serif;
@@ -371,27 +351,6 @@ div.panel,
   margin-bottom: 14px;
   border: 0;
   box-shadow: none;
-}
-
-div.form-control,
-.form-control {
-  font-family: sans-serif;
-  font-size: initial;
-  color: #303030;
-  background-color: #ffffff;
-  border: 1px solid #d0d0d0 !important;
-  margin-left: 2px;
-  box-shadow: none;
-  transition:
-    border-color 0.15s ease-in-out 0s,
-    box-shadow 0.15s ease-in-out 0s;
-}
-
-.form-group.list-group-item {
-  color: #303030;
-  background-color: #f4f4f4;
-  border-color: #dedede;
-  margin-bottom: 0px;
 }
 
 input,
@@ -416,12 +375,6 @@ textarea {
   background: #e5e5e5 !important;
   background-color: #e5e5e5 !important;
   border: 2px solid #e5e5e5 !important;
-}
-
-.form-control:focus {
-  border-color: #ff7823;
-  outline: 2px solid rgba(240, 147, 43, 0.5);
-  -webkit-box-shadow: none;
 }
 
 ::-webkit-input-placeholder {
@@ -468,7 +421,6 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6,
 pre,
 code,
@@ -517,26 +469,6 @@ div.cell.selected:before {
   left: 0px;
   width: 0px;
   height: 100%;
-}
-
-div.prompt,
-.prompt {
-  font-family: monospace, monospace;
-  font-size: 9pt !important;
-  font-weight: normal;
-  color: #828892;
-  line-height: 170%;
-  padding: 0px;
-  padding-top: 4px;
-  padding-left: 0px;
-  padding-right: 1px;
-  text-align: right !important;
-  min-width: 11.5ex !important;
-  width: 11.5ex !important;
-}
-
-div.cell.selected .prompt {
-  top: 0;
 }
 
 pre,
@@ -602,12 +534,6 @@ hr {
   z-index: 10;
 }
 
-.alert-warning {
-  background-color: #f4f4f4;
-  border-color: #f4f4f4;
-  color: #303030;
-}
-
 mark,
 .mark {
   background-color: #ffffff;
@@ -662,44 +588,6 @@ video {
   border-radius: 2px;
   -webkit-box-shadow: none;
   box-shadow: none;
-}
-
-
-.ansi-black-fg {
-  color: #e22978;
-}
-
-
-.ansi-blue-fg,
-.ansi-blue-intense-fg {
-  color: #009e07;
-}
-
-
-.ansi-green-fg {
-  color: #333333;
-}
-
-.ansi-green-intense-fg {
-  color: #ff8132;
-}
-
-
-.ansi-cyan-fg,
-.ansi-cyan-intense-fg {
-  color: #653bc5;
-}
-
-
-.ansi-yellow-fg,
-.ansi-yellow-intense-fg {
-  color: #ff8132;
-}
-
-
-.ansi-red-fg,
-.ansi-red-intense-fg {
-  color: #de143d;
 }
 
 
