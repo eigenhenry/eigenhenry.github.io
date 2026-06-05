@@ -11,7 +11,7 @@ profile:
   image_circular: false
   more_info: >
     <p>El Paso, Texas</p>
-    <p><a href="mailto:hsalgado@miners.utep.edu">hsalgado@miners.utep.edu</a></p>
+    
 
 selected_papers: true
 social: true
