@@ -1,20 +1,15 @@
----
----
-
-@article{brachoperez2026amplifying,
-  abbr        = {JEE},
+@inproceedings{salgado2026xai,
+  abbr        = {xAI-26},
   bibtex_show = {true},
-  title       = {Amplifying the Voices of Engineering Instructional Faculty: Examining the Factors Influencing Agency toward Impact at Hispanic-Serving Institutions},
-  author      = {Bracho Perez, V. and Salgado, Henry and Urquidi Cerros, Y. A. and Coso Strong, A. and Kendall, Meagan R.},
-  journal     = {Journal of Engineering Education},
-  volume      = {115},
-  number      = {2},
-  pages       = {e70063},
+  title       = {A Causal Argumentation Method for Explainability of Machine Learning Models},
+  author      = {Salgado, Henry and Kendall, Meagan R. and Ceberio, Martine},
+  booktitle   = {4th World Conference on eXplainable Artificial Intelligence (xAI 2026)},
   year        = {2026},
-  doi         = {https://doi.org/10.1002/jee.70063},
-  abstract    = {This study examines the strategic actions of engineering instructional faculty to support their students' experiences at Hispanic-serving institutions (HSIs). Specifically, it investigates the factors influencing faculty agency using the Contextualized Theory of Professional Agency for Impact in Engineering Education. By centering instructional faculty voices, the study identifies institutional, relational, and structural conditions that shape faculty members' capacity to enact meaningful change in support of student success.},
+  month       = {July},
+  html       = {https://doi.org/10.48550/arXiv.2605.21758},
+  abstract    = {Explainable AI (XAI) methods identify which features are relevant to a model's predictions but often fail to clarify why certain decisions are made. In this work, we present a novel method that integrates causality with argument-based reasoning to explain why models may be making predictions. Our approach first identifies causal relationships among variables using causal discovery methods and then translates these into a Bipolar Argumentation Framework (BAF) to represent supportive and opposing interactions among features. By using semi-stable semantics, we find extensions of features that explain why certain outcomes may have been chosen.},
   selected    = {true},
-  preview     = {JEE.png}
+  preview     = {xai.png}
 }
 
 @inproceedings{salgado2026llms,
@@ -32,43 +27,60 @@
   preview     = {LLMs.png}
 }
 
-@inproceedings{salgado2021faculty,
-  abbr        = {ASEE},
+@article{brachoperez2026amplifying,
+  abbr        = {JEE},
   bibtex_show = {true},
-  title       = {Faculty Perceptions Of, and Approaches Towards, Engineering Student Motivation at Hispanic-serving Institutions},
-  author      = {Salgado, Henry and Urquidi Cerros, Y. A. and Kendall, Meagan R. and Strong, Alexandra Coso},
-  booktitle   = {2021 ASEE Virtual Annual Conference},
-  year        = {2021},
-  month       = {July},
-  abstract    = {This research paper examines faculty perceptions of and approaches towards fostering students' motivation to learn engineering at Hispanic-Serving Institutions (HSIs).},
-  html        = {https://peer.asee.org/37186},
-  selected    = {false}
+  title       = {Amplifying the Voices of Engineering Instructional Faculty: Examining the Factors Influencing Agency toward Impact at Hispanic-Serving Institutions},
+  author      = {Bracho Perez, V. and Salgado, Henry and Urquidi Cerros, Y. A. and Coso Strong, A. and Kendall, Meagan R.},
+  journal     = {Journal of Engineering Education},
+  volume      = {115},
+  number      = {2},
+  pages       = {e70063},
+  year        = {2026},
+  doi         = {https://doi.org/10.1002/jee.70063},
+  abstract    = {This study examines the strategic actions of engineering instructional faculty to support their students' experiences at Hispanic-serving institutions (HSIs). Specifically, it investigates the factors influencing faculty agency using the Contextualized Theory of Professional Agency for Impact in Engineering Education. By centering instructional faculty voices, the study identifies institutional, relational, and structural conditions that shape faculty members' capacity to enact meaningful change in support of student success.},
+  selected    = {true},
+  preview     = {JEE.png}
 }
 
-@inproceedings{brachoperez2021engineering,
-  abbr        = {FIE},
+@misc{salgado2026calm,
+  abbr        = {CALM-26},
   bibtex_show = {true},
-  title       = {Engineering Instructional Faculty Perceptions of Students' Background at Hispanic Serving Institutions},
-  author      = {Bracho Perez, V. and Salgado, Henry and Coso Strong, A. and Kendall, Meagan R.},
-  booktitle   = {2021 Proceedings of the ASEE/IEEE Frontiers in Education Conference},
-  year        = {2021},
+  title       = {Causal Discovery for Explainable {AI}: {A} Dual-Encoding Approach},
+  author      = {Salgado, Henry and Kendall, Meagan R. and Ceberio, Martine},
+  year        = {2026},
+  month       = {April},
+  arxiv       = {2601.21221},
+  doi         = {https://doi.org/10.1016/j.procs.2026.04.144},
+  abstract    = {Understanding causal relationships among features is fundamental for explaining machine learning model decisions. However, traditional causal discovery methods face challenges with categorical variables due to numerical instability in conditional independence testing. We propose a dual-encoding causal discovery approach that addresses these limitations by running constraint-based algorithms with complementary encoding strategies and merging results through majority voting.},
+  selected    = {false},
+  preview     = {calm_26.png}
+}
+
+@misc{cruz2025erroranalysis,
+  abbr        = {HAL},
+  bibtex_show = {true},
+  title       = {Contribution to Error Analysis of Deep Neural Networks: Case of the Activation Functions},
+  author      = {Cruz, M. L. R. and Ruiz-Rohena, K. and Guel, Y. I. and Salgado, Henry and Taldir, L. and Ramos, E. P. and Cervantes, N. and Rivero, T. and Ceberio, Martine and Lauter, C. and Volkova, A.},
+  year        = {2025},
+  month       = {November},
+  html        = {https://inria.hal.science/hal-05367563/},
+  abstract    = {Deep neural networks are widely used in high-stakes applications such as medical imaging and autonomous perception, where numerical reliability is as critical as predictive accuracy. While prior work has focused on gradient stability, the propagation of small floating-point errors through nonlinear network components remains underexplored. This paper provides a quantitative analysis of error amplification in common activation functions, including ReLU, sigmoid, tanh, and softmax.},
+  selected    = {false},
+  note        = {Preprint, Hal Open Science}
+}
+
+@inproceedings{salgado2025calm,
+  abbr        = {CALM-25},
+  bibtex_show = {true},
+  title       = {Does the Model Say What the Data Says? {A} Simple Causal-Inspired Heuristic for Model--Data Alignment},
+  author      = {Salgado, Henry and Kendall, Meagan R. and Ceberio, Martine},
+  booktitle   = {International Workshop on Causality, Agents and Large Models (CALM-25)},
+  address     = {Luxembourg},
+  year        = {2025},
   month       = {October},
-  doi         = {10.1109/FIE49875.2021.9637237},
-  abstract    = {This work-in-progress research paper shares preliminary results from exploring faculty perceptions and beliefs about students' backgrounds in engineering at Hispanic Serving Institutions (HSIs). Faculty enhance or hinder learning through their interactions with students.},
-  selected    = {false}
-}
-
-@incollection{ortiz2023selfesteem,
-  abbr        = {Springer},
-  bibtex_show = {true},
-  title       = {Why Self-Esteem Helps to Solve Problems: An Algorithmic Explanation},
-  author      = {Ortiz, O. and Salgado, Henry and Kosheleva, O. and Kreinovich, V.},
-  booktitle   = {Uncertainty, Constraints, and Decision Making. Studies in Systems, Decision and Control, vol 484},
-  publisher   = {Springer, Cham},
-  editor      = {Ceberio, M. and Kreinovich, V.},
-  year        = {2023},
-  doi         = {10.1007/978-3-031-36394-8_46},
-  abstract    = {It is known that self-esteem helps solve problems. From the algorithmic viewpoint, this seems like a mystery: a boost in self-esteem does not provide us with new algorithms, does not provide us with ability to compute faster—but somehow, with the same algorithmic tools and the same ability to perform the corresponding computations, students become better problem solvers. In this paper, we provide an algorithmic explanation for this surprising empirical phenomenon.},
+  html         = {https://link.springer.com/chapter/10.1007/978-3-032-20548-3_4},
+  abstract    = {In this work, we propose a simple, computationally efficient framework to evaluate whether machine learning models align with the structure of the data they learn from, that is, whether the model says what the data says.},
   selected    = {false}
 }
 
@@ -86,59 +98,42 @@
   selected    = {false}
 }
 
-@inproceedings{salgado2025calm,
-  abbr        = {CALM-25},
+@incollection{ortiz2023selfesteem,
+  abbr        = {Springer},
   bibtex_show = {true},
-  title       = {Does the Model Say What the Data Says? {A} Simple Causal-Inspired Heuristic for Model--Data Alignment},
-  author      = {Salgado, Henry and Kendall, Meagan R. and Ceberio, Martine},
-  booktitle   = {International Workshop on Causality, Agents and Large Models (CALM-25)},
-  address     = {Luxembourg},
-  year        = {2025},
-  month       = {October},
-  html         = {https://link.springer.com/chapter/10.1007/978-3-032-20548-3_4},
-  abstract    = {In this work, we propose a simple, computationally efficient framework to evaluate whether machine learning models align with the structure of the data they learn from, that is, whether the model says what the data says.},
+  title       = {Why Self-Esteem Helps to Solve Problems: An Algorithmic Explanation},
+  author      = {Ortiz, O. and Salgado, Henry and Kosheleva, O. and Kreinovich, V.},
+  booktitle   = {Uncertainty, Constraints, and Decision Making. Studies in Systems, Decision and Control, vol 484},
+  publisher   = {Springer, Cham},
+  editor      = {Ceberio, M. and Kreinovich, V.},
+  year        = {2023},
+  doi         = {10.1007/978-3-031-36394-8_46},
+  abstract    = {It is known that self-esteem helps solve problems. From the algorithmic viewpoint, this seems like a mystery: a boost in self-esteem does not provide us with new algorithms, does not provide us with ability to compute faster—but somehow, with the same algorithmic tools and the same ability to perform the corresponding computations, students become better problem solvers. In this paper, we provide an algorithmic explanation for this surprising empirical phenomenon.},
   selected    = {false}
 }
 
-@misc{cruz2025erroranalysis,
-  abbr        = {HAL},
+@inproceedings{brachoperez2021engineering,
+  abbr        = {FIE},
   bibtex_show = {true},
-  title       = {Contribution to Error Analysis of Deep Neural Networks: Case of the Activation Functions},
-  author      = {Cruz, M. L. R. and Ruiz-Rohena, K. and Guel, Y. I. and Salgado, Henry and Taldir, L. and Ramos, E. P. and Cervantes, N. and Rivero, T. and Ceberio, Martine and Lauter, C. and Volkova, A.},
-  year        = {2025},
-  month       = {November},
-  html        = {https://inria.hal.science/hal-05367563/},
-  abstract    = {Deep neural networks are widely used in high-stakes applications such as medical imaging and autonomous perception, where numerical reliability is as critical as predictive accuracy. While prior work has focused on gradient stability, the propagation of small floating-point errors through nonlinear network components remains underexplored. This paper provides a quantitative analysis of error amplification in common activation functions, including ReLU, sigmoid, tanh, and softmax.},
-  selected    = {false},
-  note        = {Preprint, Hal Open Science}
+  title       = {Engineering Instructional Faculty Perceptions of Students' Background at Hispanic Serving Institutions},
+  author      = {Bracho Perez, V. and Salgado, Henry and Coso Strong, A. and Kendall, Meagan R.},
+  booktitle   = {2021 Proceedings of the ASEE/IEEE Frontiers in Education Conference},
+  year        = {2021},
+  month       = {October},
+  doi         = {10.1109/FIE49875.2021.9637237},
+  abstract    = {This work-in-progress research paper shares preliminary results from exploring faculty perceptions and beliefs about students' backgrounds in engineering at Hispanic Serving Institutions (HSIs). Faculty enhance or hinder learning through their interactions with students.},
+  selected    = {false}
 }
 
-@inproceedings{salgado2026xai,
-  abbr        = {xAI-26},
+@inproceedings{salgado2021faculty,
+  abbr        = {ASEE},
   bibtex_show = {true},
-  title       = {A Causal Argumentation Method for Explainability of Machine Learning Models},
-  author      = {Salgado, Henry and Kendall, Meagan R. and Ceberio, Martine},
-  booktitle   = {4th World Conference on eXplainable Artificial Intelligence (xAI 2026)},
-  year        = {2026},
+  title       = {Faculty Perceptions Of, and Approaches Towards, Engineering Student Motivation at Hispanic-serving Institutions},
+  author      = {Salgado, Henry and Urquidi Cerros, Y. A. and Kendall, Meagan R. and Strong, Alexandra Coso},
+  booktitle   = {2021 ASEE Virtual Annual Conference},
+  year        = {2021},
   month       = {July},
-  html       = {https://doi.org/10.48550/arXiv.2605.21758}, 
-  abstract    = {Explainable AI (XAI) methods identify which features are relevant to a model's predictions but often fail to clarify why certain decisions are made. In this work, we present a novel method that integrates causality with argument-based reasoning to explain why models may be making predictions. Our approach first identifies causal relationships among variables using causal discovery methods and then translates these into a Bipolar Argumentation Framework (BAF) to represent supportive and opposing interactions among features. By using semi-stable semantics, we find extensions of features that explain why certain outcomes may have been chosen.},
-  selected    = {true},
-  preview     = {xai.png}
-
- 
-}
-
-@misc{salgado2026calm,
-  abbr        = {CALM-26},
-  bibtex_show = {true},
-  title       = {Causal Discovery for Explainable {AI}: {A} Dual-Encoding Approach},
-  author      = {Salgado, Henry and Kendall, Meagan R. and Ceberio, Martine},
-  year        = {2026},
-  month       = {April},
-  arxiv       = {2601.21221},
-  doi         = {https://doi.org/10.1016/j.procs.2026.04.144},
-  abstract    = {Understanding causal relationships among features is fundamental for explaining machine learning model decisions. However, traditional causal discovery methods face challenges with categorical variables due to numerical instability in conditional independence testing. We propose a dual-encoding causal discovery approach that addresses these limitations by running constraint-based algorithms with complementary encoding strategies and merging results through majority voting.},
-  selected    = {true},
-  preview     = {calm_26.png}
+  abstract    = {This research paper examines faculty perceptions of and approaches towards fostering students' motivation to learn engineering at Hispanic-Serving Institutions (HSIs).},
+  html        = {https://peer.asee.org/37186},
+  selected    = {false}
 }
