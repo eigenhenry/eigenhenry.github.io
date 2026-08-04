@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my <strong>PhD dissertation</strong>, <em>"Towards a Multi-Framework Approach to Explainable AI"</em>! 🎓 Excited to share that I'm officially a doctor.
+Successfully defended my <strong>PhD dissertation</strong>, <em>"Towards a Multi-Framework Approach to Explainable AI"</em>!
