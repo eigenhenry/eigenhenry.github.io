@@ -1,6 +1,6 @@
 cv:
   name: Henry Salgado
-  label: CS PhD Candidate (ABD)
+  label: PhD in Computer Science
   location: El Paso, TX
 
   social_networks:
@@ -15,8 +15,9 @@ cv:
         location: El Paso, Texas
         url: https://www.utep.edu/
         area: Computer Science
-        studyType: PhD (ABD)
+        studyType: PhD
         start_date: 2020
+        end_date: 2026
 
       - institution: University of Texas at El Paso
         location: El Paso, Texas
