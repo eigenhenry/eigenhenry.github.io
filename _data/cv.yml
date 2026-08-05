@@ -23,19 +23,19 @@ cv:
         location: El Paso, Texas
         area: Computational Science
         studyType: MS
-        end_date: 2020
+        end_date: 2024
 
       - institution: University of Texas at El Paso
         location: El Paso, Texas
         area: Engineering
         studyType: MS
-        end_date: 2019
+        end_date: 2022
 
       - institution: University of Texas at El Paso
         location: El Paso, Texas
         area: Computer Systems
         studyType: BS
-        end_date: 2016
+        end_date: 2017
 
     Experience:
       - company: University of Texas at El Paso

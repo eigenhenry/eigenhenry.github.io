@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my <strong>PhD dissertation</strong>, <em>"Towards a Multi-Framework Approach to Explainable AI"</em>!
+Successfully defended my <strong>PhD dissertation</strong>, <em>"Towards a Multi-Framework Approach to XAI"</em>!
