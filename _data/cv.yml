@@ -38,10 +38,16 @@ cv:
         end_date: 2017
 
     Experience:
+      - company: Cornell University
+        position: Postdoctoral Researcher
+        location: Ithaca, New York
+        start_date: 2026
+
       - company: University of Texas at El Paso
         position: Graduate Research & Teaching Assistant
         location: El Paso, Texas
         start_date: 2020
+        end_date: 2026-08
 
       - company: El Paso Community College
         position: Adjunct Instructor
