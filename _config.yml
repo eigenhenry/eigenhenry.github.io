@@ -9,7 +9,7 @@ last_name: Salgado, PhD
 contact_note: >
   Best reached by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD in Computer Science from the University of Texas at El Paso. Research in Causal ML, Explainable AI, and Science of Science.
+  Computer scientist and postdoctoral researcher at Cornell University (PhD, UTEP). Research in explainable AI (XAI), causality, and argumentation, using mixed methods.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

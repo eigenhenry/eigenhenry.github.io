@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  PhD in Computer Science · <a href="https://www.utep.edu/">University of Texas at El Paso</a>
+  Postdoctoral Researcher · <a href="https://www.cornell.edu/">Cornell University</a>
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-Hello! My name is Henry. I recently earned my PhD in Computer Science from the University of Texas at El Paso (UTEP). I completed all my education at UTEP, including two Master's degrees: one in Computational Science and another in Engineering.  
+Hello! My name is Henry. I'm a computer scientist who approaches research using mixed methods, with a focus on explainable AI (XAI), causality, and argumentation. I earned my PhD in Computer Science from the University of Texas at El Paso (UTEP), where I also completed two Master's degrees — one in Computational Science and another in Engineering. In September 2026, I'm joining Cornell University as a postdoctoral researcher.  
 
 ## research interests
 
