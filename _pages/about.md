@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-Hello! My name is Henry. I'm a computer scientist who approaches research using mixed methods, with a focus on explainable AI (XAI), causality, and argumentation. I earned my PhD in Computer Science from the University of Texas at El Paso (UTEP), where I also completed two Master's degrees — one in Computational Science and another in Engineering. In September 2026, I'm joining Cornell University as a postdoctoral researcher.  
+Hello! My name is Henry. I'm a computer scientist who approaches research using mixed methods. I earned my PhD in Computer Science from the University of Texas at El Paso (UTEP); for my dissertation I studied explainable AI (XAI) through causality and abstract argumentation.  
 
 ## research interests
 
